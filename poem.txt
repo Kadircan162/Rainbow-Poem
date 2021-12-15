@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 purple
 pink
@@ -9,3 +9,6 @@ orange
 black
 green
 white
+
+These are the colors of my Rainbow.
+And this is my new dream ""Unicorn".

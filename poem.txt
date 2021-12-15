@@ -9,6 +9,8 @@ orange
 black
 green
 white
-
+torques
+purple
+cyan
 These are the colors of my Rainbow.
 And this is my new dream ""Unicorn".

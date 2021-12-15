@@ -4,3 +4,5 @@ purple
 pink
 yellow
 blue
+red
+orange
